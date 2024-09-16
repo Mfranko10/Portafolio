@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="448" height="512">
+	<title>instagram-svg</title>
+	<defs>
+		<image width="384" height="512" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNi4wIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZD0iTTAgNjRDMCAyOC43IDI4LjcgMCA2NCAwTDIyNCAwbDAgMTI4YzAgMTcuNyAxNC4zIDMyIDMyIDMybDEyOCAwIDAgMjg4YzAgMzUuMy0yOC43IDY0LTY0IDY0TDY0IDUxMmMtMzUuMyAwLTY0LTI4LjctNjQtNjRMMCA2NHptMzg0IDY0bC0xMjggMEwyNTYgMCAzODQgMTI4eiIvPjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 200px;fill: #ffffff;font-weight: 700;font-family: "Arima-Bold", "Arima" } 
+	</style>
+	<use id="file" href="#img1" transform="matrix(.87,0,0,.87,57,33.167)"/>
+	<text id="CV" style="transform: matrix(1,0,0,1,99,369)" >
+		<tspan x="0" y="0" class="t0">C</tspan><tspan  y="0" class="t0">V
+</tspan>
+	</text>
+</svg>
