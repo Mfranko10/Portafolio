@@ -644,7 +644,7 @@ footer p {
 }
 
   #introduction__img-container img {
-    max-width: 150px;
+    max-width: 300px;
   }
 
   .menu-icon {
@@ -703,8 +703,4 @@ footer p {
   #contact {
     flex-direction: column-reverse;
   }
-
-  #contact-form {
-    max-width: 250px; 
-}
 }
